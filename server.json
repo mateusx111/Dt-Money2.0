@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createAt": "2022-08-12T11:37:31.651Z"
+      "createdAt": "2022-08-12T11:37:31.651Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 100,
-      "createAt": "2022-08-12T11:50:31.651Z"
+      "createdAt": "2022-08-12T11:50:31.651Z"
     },
     {
       "id": 3,
@@ -22,7 +22,23 @@
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
-      "createAt": "2022-08-12T16:50:31.651Z"
+      "createdAt": "2022-08-12T16:50:31.651Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 12000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-08-19T12:09:48.395Z",
+      "id": 4
+    },
+    {
+      "description": "Sorvete",
+      "price": 23,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2022-08-19T13:03:56.710Z",
+      "id": 5
     }
   ]
 }

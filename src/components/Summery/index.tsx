@@ -1,10 +1,10 @@
-import { ArrowCircleDown, ArrowCircleUp, CurrencyDollar } from "phosphor-react";
-import { useSummery } from "../../hooks/useSummary";
-import { priceFromatter } from "../../utils/formatter";
-import { SummeryCard, SummeryContainer } from "./styles";
+import { ArrowCircleDown, ArrowCircleUp, CurrencyDollar } from 'phosphor-react'
+import { useSummery } from '../../hooks/useSummary'
+import { priceFromatter } from '../../utils/formatter'
+import { SummeryCard, SummeryContainer } from './styles'
 
 export function Summary() {
-  const summary = useSummery();
+  const summary = useSummery()
 
   return (
     <SummeryContainer>
