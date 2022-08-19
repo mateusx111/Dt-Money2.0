@@ -3,7 +3,7 @@ import { Header } from '../../components/Header'
 import { Summary } from '../../components/Summery'
 import { TransactionsContext } from '../../contexts/TransactionsContext'
 import { dateFromatter, priceFromatter } from '../../utils/formatter'
-import { SearchFrom } from './components/SearchFrom'
+import { SearchForm } from './components/SearchFrom'
 
 import {
   PriceHighLigh,
@@ -22,7 +22,7 @@ export function Transaction() {
       <Summary />
 
       <TransactionsContainer>
-        <SearchFrom />
+        <SearchForm />
 
         <TransactionsTable>
           <tbody>
