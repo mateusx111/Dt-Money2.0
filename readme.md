@@ -22,9 +22,11 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 
 <h3 id="tecnologias"/>🛠 Tecnologias </h3>
 
-- Styled Components
 - React
 - Typescript
+- Vite
+- Styled Components
+- radix
 
 npm create vite@latest Dy-money2.0
 
