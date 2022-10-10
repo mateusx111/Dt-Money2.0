@@ -17,8 +17,10 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 
 <h3 id="funcionalidades"> ✅ Funcionalidades </h3>
 
+- [x] Planejamento Econômico;
 - [x] Cadastrar novas transações;
 - [x] Ver o histórico de transações;
+- [x] Filtrar elementos;
 
 <h3 id="tecnologias"/>🛠 Tecnologias </h3>
 
@@ -30,9 +32,7 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 - Styled Components
 - radix
 
-npm create vite@latest Dy-money2.0
 
-npm i styled-components
-npm i @type/styled-components
 
+npm i
 npx json-server server.json
