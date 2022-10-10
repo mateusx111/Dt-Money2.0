@@ -25,6 +25,8 @@ A tive muito aprendizado pelas boas práticas, organização de código e lógic
 - React
 - Typescript
 - Vite
+- Axios
+- Phosphor-react
 - Styled Components
 - radix
 
